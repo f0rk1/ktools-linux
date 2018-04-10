@@ -101,7 +101,7 @@ class ktools:
 			
 	def loadLang( self ):
 	
-		if self.lang != "es":
+		if self.lang == "es":
 
 			if os.path.exists( self.path_+"locale/es.json" ):
 
