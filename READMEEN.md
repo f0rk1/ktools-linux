@@ -56,5 +56,5 @@ lang=es
 </p>
 <br>
 <h4 align="left">Start</h4>
-<p align="justify">
+<p align="center">
 <img src="https://3.bp.blogspot.com/-b3CmJfO3-GI/Wsz2MLhAZvI/AAAAAAAAAW4/wvb4AQoVUoYD7QsJjl90d-PJtk3ehMcPQCLcBGAs/s1600/install%2B4.png"></p>
