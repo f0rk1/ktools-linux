@@ -21,7 +21,7 @@
 <p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
 <br>
 <h4 align="left">Instalación</h4>
-<p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y le preguntara</p>
+<p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
 <p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-_6KD-fjZSVk/Ws0OZ3LVKEI/AAAAAAAAAYw/1UpHvyxmak0CHl7xukzgmlTxSptEyyCbACLcBGAs/s1600/installes1.png">
 </p>
 <br>
