@@ -20,8 +20,9 @@
 <p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
 <br>
 <h4 align="left">Installation</h4>
-<p align="justify"></p>
-<br>
+<p align="justify">Run the script for the first time, and a configuration file will be created and ask you</p>
+<p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-HroC4mbZyEI/WszsuSwyYFI/AAAAAAAAAWQ/NXw96nfGQsQOyqbkz7nSZXh0VE3cnEubQCLcBGAs/s1600/install%2B3.png">
+</p>
 <h4 align="left">Configuration</h4>
 <p align="justify"></p>
 <br>
