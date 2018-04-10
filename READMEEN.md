@@ -17,7 +17,7 @@
 <p align="center"><img title="Install Java 8" src="https://4.bp.blogspot.com/-uDinyAevxBQ/WszpuFKm-oI/AAAAAAAAAV8/xxHSUyYF8oAOV3LiSbal7T0Y_8rjxKcaQCLcBGAs/s1600/install%2B1.png"></p>
 <br>
 <h4 align="left">Download</h4>
-<p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-KG6LQf7NEUo/WszmwTrjmKI/AAAAAAAAAVg/iL8y3haYbfg9rshKO78CGUCJGKVHDaONQCLcBGAs/s640/install%2B2.png"></p>
+<p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
 <br>
 <h4 align="left">Installation</h4>
 <p align="justify"></p>
