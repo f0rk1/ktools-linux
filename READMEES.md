@@ -61,3 +61,4 @@ lang=es
 <h4 align="left">Iniciar Ktools</h4>
 <p align="center">
 <img title="Iniciar Ktools" src="https://3.bp.blogspot.com/-7TQQs6qoPwA/Ws0R6Tpr7II/AAAAAAAAAZM/llcTzPe-2KcIl-Jg6lG-jjyJ2j2ugE9cACLcBGAs/s1600/installes2.png"></p>
+<br>
