@@ -4,7 +4,7 @@
 <br>
 <h4 align="left">Features</h4>
 <p align="justify">Ktools was coded in python and the graphical interface in java, allowing to visualize the information from a terminal or from a window.The tool classifies the contents in categories and tools as in Kali Linux, allowing the user to access the information searching for a category or searching the tool directly. This version comes with new features like creation of menu entries on desktop and main menu and it does a pause when the tool information or tool list is showing. Now has the ability to update the database from the command line </p>
-<p align="justify">The GUI is now coded with javafx that supports html5 contents, therefore it includes some animations and some css templates to show the tool information.</p>
+<p align="justify">The GUI is now coded with javafx that supports html5 contents, therefore it includes some animations and a new css template to show the tools information.</p>
 <br>
 <h4 align="left">Requirements</h4>
 <p align="justify">Python 2.7</p>
@@ -20,7 +20,7 @@
 <p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
 <br>
 <h4 align="left">Installation</h4>
-<p align="justify">Once the script is run for the first time, a configuration file and menu entries will be created</p>
+<p align="justify">Once the script run the first time, a configuration file and menu entries will be created</p>
 <p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-sh8F-4QEQlY/Ws0YwTjRwEI/AAAAAAAAAZo/JutkdmMSZQYeHYteHJxWnrABjQH9Z_AzwCLcBGAs/s1600/install%2B3.png">
 </p>
 <br>
@@ -59,4 +59,4 @@ lang=es
 <br>
 <h4 align="left">Start</h4>
 <p align="center">
-<img src="https://3.bp.blogspot.com/-b3CmJfO3-GI/Wsz2MLhAZvI/AAAAAAAAAW4/wvb4AQoVUoYD7QsJjl90d-PJtk3ehMcPQCLcBGAs/s1600/install%2B4.png"></p>
+<img title="Ktools" src="https://3.bp.blogspot.com/-b3CmJfO3-GI/Wsz2MLhAZvI/AAAAAAAAAW4/wvb4AQoVUoYD7QsJjl90d-PJtk3ehMcPQCLcBGAs/s1600/install%2B4.png"></p>
