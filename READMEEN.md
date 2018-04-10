@@ -39,7 +39,7 @@ dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
 pausekey = 1
 </pre>
 </p>
-<p align="justify">GUI</p>
+<p align="justify">GUI options</p>
 <p align="justify">File ktoolsGui.properties</p>
 <p align="justify">
 <pre>
@@ -56,4 +56,5 @@ lang=es
 </p>
 <br>
 <h4 align="left">Start</h4>
-<p align="justify"></p>
+<p align="justify">
+<img src="https://3.bp.blogspot.com/-b3CmJfO3-GI/Wsz2MLhAZvI/AAAAAAAAAW4/wvb4AQoVUoYD7QsJjl90d-PJtk3ehMcPQCLcBGAs/s1600/install%2B4.png"></p>
