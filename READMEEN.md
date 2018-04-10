@@ -20,9 +20,10 @@
 <p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
 <br>
 <h4 align="left">Installation</h4>
-<p align="justify">Run the script for the first time, and a configuration file will be created and ask you</p>
-<p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-HroC4mbZyEI/WszsuSwyYFI/AAAAAAAAAWQ/NXw96nfGQsQOyqbkz7nSZXh0VE3cnEubQCLcBGAs/s1600/install%2B3.png">
+<p align="justify">Once the script is run for the first time, a configuration file and menu entries will be created</p>
+<p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-sh8F-4QEQlY/Ws0YwTjRwEI/AAAAAAAAAZo/JutkdmMSZQYeHYteHJxWnrABjQH9Z_AzwCLcBGAs/s1600/install%2B3.png">
 </p>
+<br>
 <h4 align="left">Configuration</h4>
 <p align="justify">Python script options</p>
 <p align="justify">file config.cfg</p>
@@ -39,6 +40,7 @@ dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
 pausekey = 1
 </pre>
 </p>
+<br>
 <p align="justify">GUI options</p>
 <p align="justify">File ktoolsGui.properties</p>
 <p align="justify">
