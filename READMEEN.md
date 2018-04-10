@@ -42,22 +42,17 @@ pausekey = 1
 <p align="justify">GUI</p>
 <p align="justify">File ktoolsGui.properties</p>
 <p align="justify">
- <pre>
- #ktoolGui settings
-
- #database hash, is generated automatically when database changes
- dbhash=6E49C321CF30D7D9E2855B921D7B4FD496F69363B5511AE4013649CF020BE7FB
-
- #search on key pressed true or false
- search=true
- 
- #check the author search option or name or content at the start of the application, 1=author 2=name 3=content
- searchby=1
-
+<pre>
+#ktoolGui settings
+#database hash, is generated automatically when database changes
+dbhash=6E49C321CF30D7D9E2855B921D7B4FD496F69363B5511AE4013649CF020BE7FB
+#search on key pressed true or false
+search=true
+#check the author search option or name or content at the start of the application, 1=author 2=name 3=content
+searchby=1
 #Language spanish or english lang=es or en
 lang=es
-
- </pre>
+</pre>
 </p>
 <br>
 <h4 align="left">Start</h4>
