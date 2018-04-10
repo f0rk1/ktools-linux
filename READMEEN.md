@@ -26,17 +26,19 @@
 <h4 align="left">Configuration</h4>
 <p align="justify">Python script options</p>
 <p align="justify">file config.cfg</p>
-```editorconfig
-[settings]<br>
-;language<br>
-lang = es<br>
-;create a symbolic link to execute the script and create the menu entries on the desktop and in the main menu<br>
-menu = 0<br>
-;database hash<br>
-dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336<br>
-;it does a pause when tool information or tool list is showing, you must press enter to continue or q to exit<br>
-pausekey = 1<br>
-```
+<p align="justify">
+<pre>
+[settings]
+;language
+lang = es
+;create a symbolic link to execute the script and create the menu entries on the desktop and in the main menu
+menu = 0
+;database hash
+dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
+;it does a pause when tool information or tool list is showing, you must press enter to continue or q to exit
+pausekey = 1
+</pre>
+</p>
 <br>
 <h4 align="left">Start</h4>
 <p align="justify"></p>
