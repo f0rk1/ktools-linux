@@ -22,7 +22,7 @@
 <br>
 <h4 align="left">Instalación</h4>
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y le preguntara</p>
-<p align="center"><img title="https://3.bp.blogspot.com/-_6KD-fjZSVk/Ws0OZ3LVKEI/AAAAAAAAAYw/1UpHvyxmak0CHl7xukzgmlTxSptEyyCbACLcBGAs/s1600/installes1.png">
+<p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-_6KD-fjZSVk/Ws0OZ3LVKEI/AAAAAAAAAYw/1UpHvyxmak0CHl7xukzgmlTxSptEyyCbACLcBGAs/s1600/installes1.png">
 </p>
 <br>
 <h4 align="left">Configuración</h4>
@@ -58,6 +58,6 @@ lang=es
 </pre>
 </p>
 <br>
-<h4 align="left">Start</h4>
+<h4 align="left">Iniciar Ktools</h4>
 <p align="center">
 <img src="https://3.bp.blogspot.com/-7TQQs6qoPwA/Ws0R6Tpr7II/AAAAAAAAAZM/llcTzPe-2KcIl-Jg6lG-jjyJ2j2ugE9cACLcBGAs/s1600/installes2.png"></p>
