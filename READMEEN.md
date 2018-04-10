@@ -24,7 +24,10 @@
 <p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-HroC4mbZyEI/WszsuSwyYFI/AAAAAAAAAWQ/NXw96nfGQsQOyqbkz7nSZXh0VE3cnEubQCLcBGAs/s1600/install%2B3.png">
 </p>
 <h4 align="left">Configuration</h4>
-<p align="justify">Python script options</p><pre>settings
+<p align="justify">Python script options</p>
+<p align="justify">file config.cfg</p>
+```
+[settings]
 ;language
 lang = es
 ;create a symbolic link to execute the script and create the menu entries on the desktop and in the main menu
@@ -33,7 +36,7 @@ menu = 0
 dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
 ;it does a pause when tool information or tool list is showing, you must press enter to continue or q to exit
 pausekey = 1
-</pre>
+```
 <br>
 <h4 align="left">Start</h4>
 <p align="justify"></p>
