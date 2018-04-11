@@ -35,8 +35,8 @@
 <h4 align="left">Configuración</h4>
 <p align="justify">Una vez el archivo de configuración es creado, se configura el idioma que es detectado automáticamente junto con las otras opciones con los valores predeterminados.</p>
 <br>
-<p align="justify">Opciones script en Python</p>
-<p align="justify">Archivo config.cfg</p>
+<p align="justify">Opciones del archivo de configuración config.cfg del script en python</p>
+<br>
 <p align="justify">
 <pre>
 [settings]
@@ -59,8 +59,8 @@ pausekey = 1
 <img title="Configurando la opción pausekey" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config2.gif">
 </p>
 <br>
-<p align="justify">Opciones GUI</p>
-<p align="justify">Archivo ktoolsGui.properties</p>
+<p align="justify">Opciones del archivo de configuración ktoolsGui.properties de la interfaz gráfica</p>
+<br>
 <p align="justify">
 <pre>
 #ktoolGui settings
@@ -77,6 +77,7 @@ lang=es
 <br>
 <h4 align="left">Iniciar Ktools</h4>
 <p align="justify">Ver la ayuda en la línea de comandos</p>
+<br>
 <p align="center">
 <img title="Iniciar Ktools" src="https://3.bp.blogspot.com/-7TQQs6qoPwA/Ws0R6Tpr7II/AAAAAAAAAZM/llcTzPe-2KcIl-Jg6lG-jjyJ2j2ugE9cACLcBGAs/s1600/installes2.png"></p>
 <br>
