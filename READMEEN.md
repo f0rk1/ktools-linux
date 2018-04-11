@@ -27,8 +27,7 @@
 <p align="center"><img title="Downloading and installing Ktools" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/install.gif"></p>
 <br>
 <h4 align="left">Configuration</h4>
-<p align="justify">Python script options</p>
-<p align="justify">file config.cfg</p>
+<p align="justify">Options of the configuration file config.cfg of the script in python</p>
 <p align="justify">
 <pre>
 [settings]
@@ -47,8 +46,8 @@ pausekey = 1
 <br>
 <p align="center"><img title="Configuring pausekey option" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/config2.gif"></p>
 <br>
-<p align="justify">GUI options</p>
-<p align="justify">File ktoolsGui.properties</p>
+<p align="justify">Options of the configuration file ktoolsGui.properties of the graphical interface</p>
+<br>
 <p align="justify">
 <pre>
 #ktoolGui settings
@@ -64,5 +63,6 @@ lang=es
 </p>
 <br>
 <h4 align="left">Start</h4>
+<p align="justify">Show help in the command line</p>
 <p align="center">
 <img title="Ktools" src="https://3.bp.blogspot.com/-b3CmJfO3-GI/Wsz2MLhAZvI/AAAAAAAAAW4/wvb4AQoVUoYD7QsJjl90d-PJtk3ehMcPQCLcBGAs/s1600/install%2B4.png"></p>
