@@ -17,16 +17,20 @@
 <p align="center"><img title="Install Java 8" src="https://4.bp.blogspot.com/-uDinyAevxBQ/WszpuFKm-oI/AAAAAAAAAV8/xxHSUyYF8oAOV3LiSbal7T0Y_8rjxKcaQCLcBGAs/s1600/install%2B1.png"></p>
 <br>
 <h4 align="left">Download</h4>
+<p align="justify">Download ktools from github repository</p>
+<br>
 <p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
 <br>
 <h4 align="left">Installation</h4>
-<p align="justify">Once the script run the first time, a configuration file and menu entries will be created</p>
+<p align="justify">Once the script run the first time, a configuration file and menu entries will be create</p>
 <p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-sh8F-4QEQlY/Ws0YwTjRwEI/AAAAAAAAAZo/JutkdmMSZQYeHYteHJxWnrABjQH9Z_AzwCLcBGAs/s1600/install%2B3.png">
 </p>
 <br>
 <p align="center"><img title="Downloading and installing Ktools" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/install.gif"></p>
 <br>
 <h4 align="left">Configuration</h4>
+<p align="jsutify">Once the configuration file is created, the language is automatically detected and configured with the other options with the default values.</p>
+<br>
 <p align="justify">Options of the configuration file config.cfg of the script in python</p>
 <p align="justify">
 <pre>
