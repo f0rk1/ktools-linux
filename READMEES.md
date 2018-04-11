@@ -26,7 +26,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/install.gif">
+<img title="Configurando e instalando Ktools" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/install.gif">
 </p>
 <br>
 <h4 align="left">Configuración</h4>
@@ -47,11 +47,11 @@ pausekey = 1
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config.gif">
+<img title="Configurando la opción de menu" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config.gif">
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config2.gif">
+<img title="Configurando la opción pausekey" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config2.gif">
 </p>
 <br>
 <p align="justify">Opciones GUI</p>
