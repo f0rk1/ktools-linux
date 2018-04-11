@@ -24,14 +24,9 @@
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
 <p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-_6KD-fjZSVk/Ws0OZ3LVKEI/AAAAAAAAAYw/1UpHvyxmak0CHl7xukzgmlTxSptEyyCbACLcBGAs/s1600/installes1.png">
 </p>
-<p align="justify">
+<br>
+<p align="center">
 <img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/install.gif">
-</p>
-<p align="justify">
-<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config.gif">
-</p>
-<p align="justify">
-<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config2.gif">
 </p>
 <br>
 <h4 align="left">Configuración</h4>
@@ -49,6 +44,14 @@ dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
 ;realiza una pausa cuando se muestra la información de la herramienta o cuando se listan todas las herramientas, debe presionar enter para continuar o q para salir
 pausekey = 1
 </pre>
+</p>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config.gif">
+</p>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config2.gif">
 </p>
 <br>
 <p align="justify">Opciones GUI</p>
