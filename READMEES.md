@@ -24,9 +24,6 @@
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
 <p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-_6KD-fjZSVk/Ws0OZ3LVKEI/AAAAAAAAAYw/1UpHvyxmak0CHl7xukzgmlTxSptEyyCbACLcBGAs/s1600/installes1.png">
 </p>
-<p align="center">
- <img src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/install.gif">
-</p>
 <br>
 <h4 align="left">Configuración</h4>
 <p align="justify">Opciones script en Python</p>
