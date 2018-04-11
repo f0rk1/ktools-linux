@@ -24,6 +24,8 @@
 <p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-sh8F-4QEQlY/Ws0YwTjRwEI/AAAAAAAAAZo/JutkdmMSZQYeHYteHJxWnrABjQH9Z_AzwCLcBGAs/s1600/install%2B3.png">
 </p>
 <br>
+<p align="center"><img title="Downloading and installing Ktools" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/install.gif"></p>
+<br>
 <h4 align="left">Configuration</h4>
 <p align="justify">Python script options</p>
 <p align="justify">file config.cfg</p>
@@ -40,6 +42,10 @@ dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
 pausekey = 1
 </pre>
 </p>
+<br>
+<p align="center"><img title="Configuring menu option" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/config.gif"></p>
+<br>
+<p align="center"><img title="Configuring pausekey option" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/config2.gif"></p>
 <br>
 <p align="justify">GUI options</p>
 <p align="justify">File ktoolsGui.properties</p>
