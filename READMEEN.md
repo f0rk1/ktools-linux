@@ -26,7 +26,7 @@
 <p align="center"><img title="Ktools first run" src="https://4.bp.blogspot.com/-VuWXnb2Yeg8/Ws_X-6I7bgI/AAAAAAAAAbw/UmJ9Ags93SUTX1GqvIojlX-Q8pgxyVSqACLcBGAs/s1600/install_3.png">
 </p>
 <br>
-<p align="center"><img title="Downloading and installing Ktools" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/install.gif"></p>
+<p align="center"><img title="Downloading and installing Ktools" src="https://2.bp.blogspot.com/-p9wPqAEBc_g/Ws_fvKXJmSI/AAAAAAAAAd4/7usLQVyUhIssDnbfaLVQEbG4_OJTqNd_QCLcBGAs/s1600/install_en.gif"></p>
 <br>
 <h4 align="left">Configuration</h4>
 <p align="jsutify">Once the configuration file is created, the language is automatically detected and configured with the other options with the default values.</p>
@@ -46,9 +46,9 @@ pausekey = 1
 </pre>
 </p>
 <br>
-<p align="center"><img title="Configuring menu option" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/config.gif"></p>
+<p align="center"><img title="Configuring menu option" src="https://4.bp.blogspot.com/-3BgHqO7RNY0/Ws_f3zLvf6I/AAAAAAAAAd8/YuZu_I_SODgkBdioH3oo64PpoJKaFwj3ACLcBGAs/s1600/config_en.gif"></p>
 <br>
-<p align="center"><img title="Configuring pausekey option" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/config2.gif"></p>
+<p align="center"><img title="Configuring pausekey option" src="https://4.bp.blogspot.com/-Pmu_YP4VBOc/Ws_f_2r1KpI/AAAAAAAAAeA/uP5bYoK6AjUAGAzzqemkAM52LJLfLufBwCLcBGAs/s1600/config2_en.gif"></p>
 <br>
 <p align="justify">Options of the configuration file ktoolsGui.properties of the graphical interface</p>
 <br>
