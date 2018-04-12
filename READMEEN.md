@@ -14,16 +14,16 @@
 <br>
 <p>Install java 8 and openjfx 8</p>
 <br>
-<p align="center"><img title="Install Java 8" src="https://4.bp.blogspot.com/-uDinyAevxBQ/WszpuFKm-oI/AAAAAAAAAV8/xxHSUyYF8oAOV3LiSbal7T0Y_8rjxKcaQCLcBGAs/s1600/install%2B1.png"></p>
+<p align="center"><img title="Install Java 8" src="https://2.bp.blogspot.com/-L3SqzWquLL4/Ws_X-4Cf3cI/AAAAAAAAAbo/ztBUP0Ecwbsd2Ghe0dA_j_k4UjsRDN7fwCLcBGAs/s1600/install_1.png"></p>
 <br>
 <h4 align="left">Download</h4>
 <p align="justify">Download ktools from github repository</p>
 <br>
-<p align="center"><img title="Download ktools from github repository" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
+<p align="center"><img title="Download ktools from github repository" src="https://4.bp.blogspot.com/-0czqf_VQlAg/Ws_X-xd9eWI/AAAAAAAAAbs/zx7W_Y0UilIxyKIZdxf6Ta7yTOrvSeAvQCLcBGAs/s1600/install_2.png"></p>
 <br>
 <h4 align="left">Installation</h4>
 <p align="justify">Once the script run the first time, a configuration file and menu entries will be create</p>
-<p align="center"><img title="Ktools first run" src="https://1.bp.blogspot.com/-sh8F-4QEQlY/Ws0YwTjRwEI/AAAAAAAAAZo/JutkdmMSZQYeHYteHJxWnrABjQH9Z_AzwCLcBGAs/s1600/install%2B3.png">
+<p align="center"><img title="Ktools first run" src="https://4.bp.blogspot.com/-VuWXnb2Yeg8/Ws_X-6I7bgI/AAAAAAAAAbw/UmJ9Ags93SUTX1GqvIojlX-Q8pgxyVSqACLcBGAs/s1600/install_3.png">
 </p>
 <br>
 <p align="center"><img title="Downloading and installing Ktools" src="https://github.com/f0rk1/ktools-linux/blob/master/img/en/install.gif"></p>
@@ -69,4 +69,4 @@ lang=es
 <h4 align="left">Start</h4>
 <p align="justify">Show help in the command line</p>
 <p align="center">
-<img title="Ktools" src="https://3.bp.blogspot.com/-b3CmJfO3-GI/Wsz2MLhAZvI/AAAAAAAAAW4/wvb4AQoVUoYD7QsJjl90d-PJtk3ehMcPQCLcBGAs/s1600/install%2B4.png"></p>
+<img title="Ktools" src="https://2.bp.blogspot.com/-hT8trSWtslc/Ws_X_RV97oI/AAAAAAAAAb0/3q9XDaBs4NARBKKptt4oisTKNaCezPzkACLcBGAs/s1600/install_4.png"></p>
