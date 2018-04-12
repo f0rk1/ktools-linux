@@ -29,7 +29,7 @@
 </p>
 <br>
 <p align="center">
-<img title="Configurando e instalando Ktools" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/install.gif">
+<img title="Configurando e instalando Ktools" src="https://3.bp.blogspot.com/-c4I47yZvqzc/Ws_eCbuxwXI/AAAAAAAAAdg/H1ooupowlHMffActbuUJVbRw97Da3CGiQCLcBGAs/s1600/install_es.gif">
 </p>
 <br>
 <h4 align="left">Configuración</h4>
@@ -52,11 +52,11 @@ pausekey = 1
 </p>
 <br>
 <p align="center">
-<img title="Configurando la opción de menu" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config.gif">
+<img title="Configurando la opción de menu" src="https://1.bp.blogspot.com/-87Ulfgxnsz8/Ws_ecoqnsUI/AAAAAAAAAdk/PEAW6lESTxodb33Z68wFt0Xgc4Mzboi4wCLcBGAs/s1600/config_es.gif">
 </p>
 <br>
 <p align="center">
-<img title="Configurando la opción pausekey" src="https://raw.githubusercontent.com/f0rk1/ktools-linux/master/img/es/config2.gif">
+<img title="Configurando la opción pausekey" src="https://4.bp.blogspot.com/-Ap4K_NMq7FI/Ws_etFWsD4I/AAAAAAAAAdo/Wv05eOFK2PoNAV7TugXNm0C3Esvg1tRdwCLcBGAs/s1600/config2_es.gif">
 </p>
 <br>
 <p align="justify">Opciones del archivo de configuración ktoolsGui.properties de la interfaz gráfica</p>
