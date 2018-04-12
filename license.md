@@ -6,4 +6,4 @@
 
 Author:  Michael Baez<br>
 Contact: ktools2017@gmail.com<br>
-Ktools Blog: <a href="" title="Ktools linux english blog" href="https://ktools-linux-en.blogspot.com">https://ktools-linux-en.blogspot.com</a><br>
+Ktools Blog: <a title="Ktools linux english blog" href="https://ktools-linux-en.blogspot.com">https://ktools-linux-en.blogspot.com</a><br>
