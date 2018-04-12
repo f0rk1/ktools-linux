@@ -33,7 +33,7 @@
 </p>
 <br>
 <h4 align="left">Configuración</h4>
-<p align="justify">Una vez el archivo de configuración es creado, se configura el idioma que es detectado automáticamente junto con las otras opciones con los valores predeterminados.</p>
+<p align="justify">Una vez el archivo de configuración es creado, se configura el idioma que es detectado automáticamente junto con las otras opciones que toman sus valores predeterminados.</p>
 <br>
 <p align="justify">Opciones del archivo de configuración config.cfg del script en python</p>
 <br>
