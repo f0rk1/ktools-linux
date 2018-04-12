@@ -5,5 +5,7 @@ License
 - All help contents bellonging to offensive security https://www.offensive-security.com/
 
 Author:  Michael Baez
+
 Contact: ktools2017@gmail.com
+
 Ktools Blog: ktools-linux-en.blogspot.com
