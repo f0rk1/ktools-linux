@@ -15,17 +15,17 @@
 <br>
 <p>Instalar java 8 and openjfx 8</p>
 <br>
-<p align="center"><img title="Instalar Java 8" src="https://4.bp.blogspot.com/-uDinyAevxBQ/WszpuFKm-oI/AAAAAAAAAV8/xxHSUyYF8oAOV3LiSbal7T0Y_8rjxKcaQCLcBGAs/s1600/install%2B1.png"></p>
+<p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-gdcl9kDVD48/Ws_U56OtrPI/AAAAAAAAAaw/gMABbMXdsTY2qYoaYeksYUck6Vna6-qWwCLcBGAs/s1600/installes_1.png"></p>
 <br>
 <h4 align="left">Descarga</h4>
 <p align="justify">Descargar ktools desde el repositorio en github</p>
 <br>
-<p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://2.bp.blogspot.com/-k7vaLfJ3QtA/WszqujbYX4I/AAAAAAAAAWE/B71VmnFzsMUYKoFVaP73iDfcUDWLqV6_gCLcBGAs/s1600/install%2B2.png"></p>
+<p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://1.bp.blogspot.com/-OOzE-z6Q848/Ws_UF3DSVoI/AAAAAAAAAak/gthJ5AZRZQAYuTqscQJSZePZPkJI3DXTwCLcBGAs/s1600/installes_2.png"></p>
 <br>
 <h4 align="left">Instalación</h4>
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
 <br>
-<p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-_6KD-fjZSVk/Ws0OZ3LVKEI/AAAAAAAAAYw/1UpHvyxmak0CHl7xukzgmlTxSptEyyCbACLcBGAs/s1600/installes1.png">
+<p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-EIe-IemG6Qc/Ws_VrY1kfyI/AAAAAAAAAa4/xf5hY6VoAxgOwyZPDk3GvrnQ0IFHWkL2gCLcBGAs/s1600/installes_3.png">
 </p>
 <br>
 <p align="center">
@@ -79,5 +79,5 @@ lang=es
 <p align="justify">Ver la ayuda en la línea de comandos</p>
 <br>
 <p align="center">
-<img title="Iniciar Ktools" src="https://3.bp.blogspot.com/-7TQQs6qoPwA/Ws0R6Tpr7II/AAAAAAAAAZM/llcTzPe-2KcIl-Jg6lG-jjyJ2j2ugE9cACLcBGAs/s1600/installes2.png"></p>
+<img title="Iniciar Ktools" src="https://4.bp.blogspot.com/-nsFpt-00E_I/Ws_WPIHyVoI/AAAAAAAAAbQ/gRKn9OhmmO0sRLPRyU4TviweDuK_T-uBgCLcBGAs/s1600/installes_4.png"></p>
 <br>
