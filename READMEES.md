@@ -101,4 +101,34 @@ lang=es
 <p align="justify">Buscar herramientas por contenido.</p><br>
 <p align="center"><img title="ktools buscar herramientas por contenido" src="https://2.bp.blogspot.com/-ZF3SgKqOw_M/WtC90dBda9I/AAAAAAAAAgQ/Znj0IQKorakkHuQ3buJPSPoXuRie4UitwCLcBGAs/s1600/rapido_10.png"></p>
 <br>
-<p align="justify"></p>
+<h3 align="center">Modo shell</h3>
+<br>
+<p align="justify">Permite acceder a las diferentes opciones de la herramienta mediante una shell interactiva.</p>
+<p align="justify">Acceder a la herramienta en modo shell.</p>
+<p align="center"><img title="ktools iniciar modo shell" src="https://1.bp.blogspot.com/-VMXzLPZxqHg/WtC-rZ974TI/AAAAAAAAAgg/W3t71Ytm0BEaI3EbAM7ynk8yHEqOGZhEgCLcBGAs/s1600/shell_1.png"></p>
+<br>
+<h4 align="left">Categorías</h4>
+<p align="justify">Ver las herramientas en una o varias categorías por nombre.</p>
+<p align="center"><img title="ktools ver categorías" src="https://2.bp.blogspot.com/-DXKi4TF2cwY/WtC_P6vsXyI/AAAAAAAAAgo/eA6k07RmDFwn0WwW19iUnVyS0ROe3KFyQCLcBGAs/s1600/shell_2.png"></p>
+<p align="justify">Ver las herramientas en una o varias categorías por id.</p>
+<p align="center"><img title="ktools ver categorías por id" src="https://4.bp.blogspot.com/-mH-nCw9MVbw/WtC_fvpAqPI/AAAAAAAAAgs/lWorSehoAogTPjrWybJGobluG81-wNk1QCLcBGAs/s1600/shell_3.png"></p>
+
+<h4 align="left">Herramientas</h4>
+<p align="justify">Ver una herramienta por nombre.</p>
+<p align="center"><img title="ktools ver herramienta por nombre" src="https://1.bp.blogspot.com/-N4JkOWSq15I/WtDABiLenUI/AAAAAAAAAg8/25akWkbuVCw4RomgceQRgRP5Opdr5xYfACLcBGAs/s1600/shell_4.png"></p>
+<p align="justify">Ver una herramienta por id.</p>
+<p align="center"><img title="ktools ver herramienta por id" src="https://4.bp.blogspot.com/-JjeDKy8PNgA/WtDAQFsU77I/AAAAAAAAAhM/oUUmYH1hlfYPdttQIrI36IACdQq9eqdYQCLcBGAs/s1600/shell_5.png"></p>
+
+<h4 align="left">Mostrar</h4>
+<p align="justify">Ver todas las categorías.</p>
+<p align="center"><img title="ktools ver todas las categorías" src="https://4.bp.blogspot.com/-2f9V_oNWTEo/WtDApB9_kDI/AAAAAAAAAhU/AIkjWJee4bkZljQDnPPE1_1idbWvIfPewCLcBGAs/s1600/shell_6.png"></p>
+<p align="justify">Ver todas las herramientas.</p>
+<p align="center"><img title="ktoosl ver todas la herramientas" src="https://3.bp.blogspot.com/-hDt6yxznIDQ/WtDA4dy1EkI/AAAAAAAAAhc/24PUaM5xOSYiwFZqZcsh9nZc5HZOc1WewCLcBGAs/s1600/shell_7.png"></p>
+
+<h4 align="left">Buscar</h4>
+<p align="justify">Buscar herramientas por nombre.</p>
+<p align="center"><img title="ktools buscar herramientas por nombre" src="https://2.bp.blogspot.com/-fvHxqvwahG0/WtDBMb31TkI/AAAAAAAAAho/3TkkrY69bwkEDON7YU0CHtxeIKx-nYSmgCLcBGAs/s1600/shell_8.png"></p>
+<p align="justify">Buscar herramientas por autor.</p>
+<p align="center"><img title="ktools buscar herramientas por autor" src="https://4.bp.blogspot.com/-I-TiR_rwBvI/WtDBdWJvYUI/AAAAAAAAAhw/aXhCQnO4rE8ssHQeI32s6bhvNmFElfwUwCLcBGAs/s1600/shell_9.png"></p>
+<p align="justify">Buscar herramientas por contenido.</p>
+<p align="center"><img title="ktools buscar herramientas por contenido" src="https://3.bp.blogspot.com/-NRT7I6CuVn4/WtDBqu27uoI/AAAAAAAAAh0/WEMEe2sPyQs8e-I_T7OptstT8xdhQk_UQCLcBGAs/s1600/shell_10.png"></p>
