@@ -80,7 +80,7 @@ lang=es
 <p align="center"><img title="ktools actualizar base de datos" src="https://2.bp.blogspot.com/-hO_gFC-nRiU/WtC3IOREF-I/AAAAAAAAAes/_BuMUG4JR-Q88s6nROe3JFsmSYjmh1nqwCLcBGAs/s1600/rapido_1.png"></p>
 <h4 align="left">Categorías</h4>
 <p align="justify">Ver las herramientas en una o varias categorías por nombre.</p>
-<p align="center"><img title="ktoosl ver categorías" src="https://2.bp.blogspot.com/-M_q1ZbSY5_M/WtC33GIzpTI/AAAAAAAAAe0/FhEgIh8mPycWVvDH4k9Sb1Jw8WfW7aHywCLcBGAs/s1600/rapido_2.png"></p>
+<p align="center"><img title="ktools ver categorías" src="https://2.bp.blogspot.com/-M_q1ZbSY5_M/WtC33GIzpTI/AAAAAAAAAe0/FhEgIh8mPycWVvDH4k9Sb1Jw8WfW7aHywCLcBGAs/s1600/rapido_2.png"></p>
 <p align="justify">Ver las herramientas en una o varias categorías por id.</p>
 <p align="center"><img title="ktools ver categorías por id" src="https://3.bp.blogspot.com/-82FQJg5KYCM/WtC4OcDH-_I/AAAAAAAAAe4/Bg-3QnKbc5kZj24lQ2P26Uqx_GAiMOpxgCLcBGAs/s1600/rapido_3.png"></p>
 <h4 align="left">Herramientas</h4>
@@ -96,9 +96,9 @@ lang=es
 <h4 align="left">Buscar</h4>
 <p align="justify">Buscar herramientas por nombre.</p>
 <p align="center"><img title="ktools buscar herramientas por nombre" src="https://1.bp.blogspot.com/-clwc7L98P4I/WtC9SCGUyfI/AAAAAAAAAgE/msmaq3tN158J92yi8-0szg6Xp3nI6vVLwCLcBGAs/s1600/rapido_8.png"></p>
-<p align="justify">Buscar herramientas por autor.</p><br>
+<p align="justify">Buscar herramientas por autor.</p>
 <p align="center"><img title="ktools buscar herramientas por autor" src="https://1.bp.blogspot.com/-lc0BJXjFUgc/WtC9kRRxP9I/AAAAAAAAAgI/kH7Aexvlcxokt07Lhf_RE5mTtI6j7NTzgCLcBGAs/s1600/rapido_9.png"></p>
-<p align="justify">Buscar herramientas por contenido.</p><br>
+<p align="justify">Buscar herramientas por contenido.</p>
 <p align="center"><img title="ktools buscar herramientas por contenido" src="https://2.bp.blogspot.com/-ZF3SgKqOw_M/WtC90dBda9I/AAAAAAAAAgQ/Znj0IQKorakkHuQ3buJPSPoXuRie4UitwCLcBGAs/s1600/rapido_10.png"></p>
 <br>
 <h3 align="center">Modo shell</h3>
