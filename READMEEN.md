@@ -13,21 +13,15 @@
 <p align="justify">Javafx 8 or Openjfx 8</p>
 <br>
 <p>Install java 8 and openjfx 8</p>
-<br>
 <p align="center"><img title="Install Java 8" src="https://2.bp.blogspot.com/-L3SqzWquLL4/Ws_X-4Cf3cI/AAAAAAAAAbo/ztBUP0Ecwbsd2Ghe0dA_j_k4UjsRDN7fwCLcBGAs/s1600/install_1.png"></p>
-<br>
 <h4 align="left">Download</h4>
 <p align="justify">Download ktools from github repository</p>
-<br>
 <p align="center"><img title="Download ktools from github repository" src="https://4.bp.blogspot.com/-0czqf_VQlAg/Ws_X-xd9eWI/AAAAAAAAAbs/zx7W_Y0UilIxyKIZdxf6Ta7yTOrvSeAvQCLcBGAs/s1600/install_2.png"></p>
-<br>
 <h4 align="left">Installation</h4>
 <p align="justify">Once the script run the first time, a configuration file and menu entries will be create</p>
 <p align="center"><img title="Ktools first run" src="https://4.bp.blogspot.com/-VuWXnb2Yeg8/Ws_X-6I7bgI/AAAAAAAAAbw/UmJ9Ags93SUTX1GqvIojlX-Q8pgxyVSqACLcBGAs/s1600/install_3.png">
 </p>
-<br>
 <p align="center"><img title="Downloading and installing Ktools" src="https://2.bp.blogspot.com/-p9wPqAEBc_g/Ws_fvKXJmSI/AAAAAAAAAd4/7usLQVyUhIssDnbfaLVQEbG4_OJTqNd_QCLcBGAs/s1600/install_en.gif"></p>
-<br>
 <h4 align="left">Configuration</h4>
 <p align="jsutify">Once the configuration file is created, the language is automatically detected and configured with the other options with the default values.</p>
 <br>
@@ -51,7 +45,6 @@ pausekey = 1
 <p align="center"><img title="Configuring pausekey option" src="https://4.bp.blogspot.com/-Pmu_YP4VBOc/Ws_f_2r1KpI/AAAAAAAAAeA/uP5bYoK6AjUAGAzzqemkAM52LJLfLufBwCLcBGAs/s1600/config2_en.gif"></p>
 <br>
 <p align="justify">Options of the configuration file ktoolsGui.properties of the graphical interface</p>
-<br>
 <p align="justify">
 <pre>
 #ktoolGui settings
