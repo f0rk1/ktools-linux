@@ -50,7 +50,7 @@ pausekey = 1
 <p align="center">
 <img title="Ktools" src="https://2.bp.blogspot.com/-hT8trSWtslc/Ws_X_RV97oI/AAAAAAAAAb0/3q9XDaBs4NARBKKptt4oisTKNaCezPzkACLcBGAs/s1600/install_4.png"></p>
 <br>
-<h3 align="center">Quick mode</h3>
+<h3 align="center">Quick mode</h3><br>
 <p align="justify">Shows information of categories and tools and then quit.</p>
 <br>
 <h4>Database update</h4>
@@ -79,7 +79,7 @@ pausekey = 1
 <p align="justify">Search tools by content.</p>
 <p align="center"><img title="search tools by content" src="https://1.bp.blogspot.com/-8BPJ6GvPrv4/WtEfP6OcP9I/AAAAAAAAAlI/OSWuBDqXfj87JD-MWqZPUGCdbsABNXqZQCLcBGAs/s1600/quick_10.png" ></p>
 <br>
-<h3 align="center">Shell mode</h3>
+<h3 align="center">Shell mode</h3><br>
 <p align="justify">It allows access to the different options of the tool through an interactive shell.</p>
 <p>Start shell mode.</p>
 <p align="center"><img title="ktools start shell mode" src="https://2.bp.blogspot.com/-PTDg2HhlxuA/WtEixhhavmI/AAAAAAAAAlo/jL7UmQfBD4A4onitgTqBYz_SWosPk5gbgCLcBGAs/s1600/shell_1.png" ></p>
@@ -107,7 +107,7 @@ pausekey = 1
 <p align="justify">Search tools by content.</p>
 <p align="center"><img title="search by content" src="https://3.bp.blogspot.com/-ARilG1Cjc7U/WtElwYJ3z-I/AAAAAAAAAmo/I_4V4OkrJwkI1Nt65LNTgURGq_2aXjbWgCLcBGAs/s1600/shell_10.png" ></p>
 <br>
-<h3 align="center">GUI</h3>
+<h3 align="center">GUI</h3><br>
 <p align="justify">The GUI in version 0.2 was written in Javafx, and allows access to help contents through a graphical interface, has new features such as saving the settings selected by the user in the graphical interface in the configuration file.</p>
 <br>
 <h4>Configuration</h4>
