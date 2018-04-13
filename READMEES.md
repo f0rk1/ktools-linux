@@ -35,11 +35,13 @@
 [settings]
 ;Idioma
 lang = es
-;crea un acceso directo para ejecutar el script y también crea los menús del programa en el escritorio y en el menú principal
+;crea un acceso directo para ejecutar el script y también crea los
+;menús del programa en el escritorio y en el menú principal
 menu = 0
 ;Hash de la base de datos
 dbhash = 40022da25ec234a94ced28da5a3208c0f0cea474f2424b193cdb606ea7189336
-;realiza una pausa cuando se muestra la información de la herramienta o cuando se listan todas las herramientas, debe presionar enter para continuar o q para salir
+;realiza una pausa cuando se muestra la información de la herramienta o 
+;cuando se listan todas las herramientas, debe presionar enter para continuar o q para salir
 pausekey = 1
 </pre>
 </p>
@@ -144,3 +146,5 @@ lang=es
 <h4 align="left">Ejecución</h4>
 <p align="justify">Inciar ktools GUI.</p>
 <p align="center"><img title="ktools GUI" src="https://3.bp.blogspot.com/-fJjUJPn0ngc/WtDEVMtYo-I/AAAAAAAAAiU/E5LaOdfQRwIRHEuyWqKKBZxoMpSJ1x-CwCLcBGAs/s1600/GUI.png"></p>
+<h4>Blog</h4>
+<p><a title="Ktools linux blog" target="_blank" href="https://ktools-linux.blogspot.com">https://ktools-linux.blogspot.com</a></p>
