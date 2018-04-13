@@ -50,7 +50,6 @@ pausekey = 1
 <p align="center">
 <img title="Configurando la opción pausekey" src="https://4.bp.blogspot.com/-Ap4K_NMq7FI/Ws_etFWsD4I/AAAAAAAAAdo/Wv05eOFK2PoNAV7TugXNm0C3Esvg1tRdwCLcBGAs/s1600/config2_es.gif">
 </p>
-<br>
 <h4 align="left">Iniciar Ktools</h4>
 <p align="justify">Ver la ayuda en la línea de comandos</p>
 <p align="center">
@@ -129,11 +128,13 @@ pausekey = 1
 <p align="justify">
 <pre>
 #ktoolGui settings
-#hash de la base datos, es generado automáticamente cuando la base de datos cambia
+#hash de la base datos, es generado automáticamente
+#cuando la base de datos cambia
 dbhash=6E49C321CF30D7D9E2855B921D7B4FD496F69363B5511AE4013649CF020BE7FB
 #buscar al teclear 
 search=true
-#marca la opción de búsqueda por autor, nombre o contenido al iniciar la aplicación, 1=autor 2=nombre 3=contenido
+#marca la opción de búsqueda por autor, nombre o contenido al 
+#iniciar la aplicación, 1=autor 2=nombre 3=contenido
 searchby=1
 #idioma español o inglés lang=es o en
 lang=es
