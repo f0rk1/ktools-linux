@@ -18,14 +18,12 @@
 <p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-gdcl9kDVD48/Ws_U56OtrPI/AAAAAAAAAaw/gMABbMXdsTY2qYoaYeksYUck6Vna6-qWwCLcBGAs/s1600/installes_1.png"></p>
 <h4 align="left">Descarga</h4>
 <p align="justify">Descargar ktools desde el repositorio en github</p>
-<br>
 <p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://1.bp.blogspot.com/-OOzE-z6Q848/Ws_UF3DSVoI/AAAAAAAAAak/gthJ5AZRZQAYuTqscQJSZePZPkJI3DXTwCLcBGAs/s1600/installes_2.png"></p>
 <h4 align="left">Instalación</h4>
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
 <br>
 <p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-EIe-IemG6Qc/Ws_VrY1kfyI/AAAAAAAAAa4/xf5hY6VoAxgOwyZPDk3GvrnQ0IFHWkL2gCLcBGAs/s1600/installes_3.png">
 </p>
-<br>
 <p align="center">
 <img title="Configurando e instalando Ktools" src="https://3.bp.blogspot.com/-c4I47yZvqzc/Ws_eCbuxwXI/AAAAAAAAAdg/H1ooupowlHMffActbuUJVbRw97Da3CGiQCLcBGAs/s1600/install_es.gif">
 <br>
@@ -84,7 +82,7 @@ lang=es
 <p align="justify">Verifica si la base de datos ha sido actualizada, y si algún cambio es detectado descarga y actualiza el archivo de la base de datos.</p>
 <p align="center"><img title="ktools actualizar base de datos" src="https://2.bp.blogspot.com/-hO_gFC-nRiU/WtC3IOREF-I/AAAAAAAAAes/_BuMUG4JR-Q88s6nROe3JFsmSYjmh1nqwCLcBGAs/s1600/rapido_1.png"></p>
 <h4 align="left">Categorías</h4>
-<p align="justify">Ver las herramientas en una o varias categorías por nombre.</p><br>
+<p align="justify">Ver las herramientas en una o varias categorías por nombre.</p>
 <p align="center"><img title="ktoosl ver categorías" src="https://2.bp.blogspot.com/-M_q1ZbSY5_M/WtC33GIzpTI/AAAAAAAAAe0/FhEgIh8mPycWVvDH4k9Sb1Jw8WfW7aHywCLcBGAs/s1600/rapido_2.png"></p>
 <p align="justify">Ver las herramientas en una o varias categorías por id.</p>
 <p align="center"><img title="ktools ver categorías por id" src="https://3.bp.blogspot.com/-82FQJg5KYCM/WtC4OcDH-_I/AAAAAAAAAe4/Bg-3QnKbc5kZj24lQ2P26Uqx_GAiMOpxgCLcBGAs/s1600/rapido_3.png"></p>
