@@ -50,21 +50,6 @@ pausekey = 1
 <p align="center">
 <img title="Configurando la opción pausekey" src="https://4.bp.blogspot.com/-Ap4K_NMq7FI/Ws_etFWsD4I/AAAAAAAAAdo/Wv05eOFK2PoNAV7TugXNm0C3Esvg1tRdwCLcBGAs/s1600/config2_es.gif">
 </p>
-<p align="justify">Opciones del archivo de configuración ktoolsGui.properties de la interfaz gráfica</p>
-<br>
-<p align="justify">
-<pre>
-#ktoolGui settings
-#hash de la base datos, es generado automáticamente cuando la base de datos cambia
-dbhash=6E49C321CF30D7D9E2855B921D7B4FD496F69363B5511AE4013649CF020BE7FB
-#buscar al teclear 
-search=true
-#marca la opción de búsqueda por autor, nombre o contenido al iniciar la aplicación, 1=autor 2=nombre 3=contenido
-searchby=1
-#idioma español o inglés lang=es o en
-lang=es
-</pre>
-</p>
 <br>
 <h4 align="left">Iniciar Ktools</h4>
 <p align="justify">Ver la ayuda en la línea de comandos</p>
@@ -132,3 +117,29 @@ lang=es
 <p align="center"><img title="ktools buscar herramientas por autor" src="https://4.bp.blogspot.com/-I-TiR_rwBvI/WtDBdWJvYUI/AAAAAAAAAhw/aXhCQnO4rE8ssHQeI32s6bhvNmFElfwUwCLcBGAs/s1600/shell_9.png"></p>
 <p align="justify">Buscar herramientas por contenido.</p>
 <p align="center"><img title="ktools buscar herramientas por contenido" src="https://3.bp.blogspot.com/-NRT7I6CuVn4/WtDBqu27uoI/AAAAAAAAAh0/WEMEe2sPyQs8e-I_T7OptstT8xdhQk_UQCLcBGAs/s1600/shell_10.png"></p>
+<br>
+
+<h3 align="center">GUI</h3>
+<br>
+<p align="justify">la GUI en su versión 0.2 fue escrita en Javafx, y permite acceder a los contenidos de ayuda mediante una interfaz gráfica, tiene nuevas características como el guardado de la configuraciones seleccionadas por el usuario en la interfaz gráfica en el archivo de configuración.</p>
+<br>
+<h4 align="left">Configuración</h4>
+<p align="justify">Una vez la aplicación de java es ejecutada por primera vez, se crea el archivo de configuración el cual tiene opciones como el idioma, el cual es detectado automáticamente junto con las otras opciones que toman sus valores predeterminados.</p>
+<p>Opciones del archivo de configuración ktoolsGui.properties de la interfaz gráfica.</p>
+<p align="justify">
+<pre>
+#ktoolGui settings
+#hash de la base datos, es generado automáticamente cuando la base de datos cambia
+dbhash=6E49C321CF30D7D9E2855B921D7B4FD496F69363B5511AE4013649CF020BE7FB
+#buscar al teclear 
+search=true
+#marca la opción de búsqueda por autor, nombre o contenido al iniciar la aplicación, 1=autor 2=nombre 3=contenido
+searchby=1
+#idioma español o inglés lang=es o en
+lang=es
+</pre>
+</p>
+<br>
+<h4 align="left">Ejecución</h4>
+<p align="justify">Inciar ktools GUI.</p>
+<p align="center"><img title="ktools GUI" src="https://3.bp.blogspot.com/-fJjUJPn0ngc/WtDEVMtYo-I/AAAAAAAAAiU/E5LaOdfQRwIRHEuyWqKKBZxoMpSJ1x-CwCLcBGAs/s1600/GUI.png"></p>
