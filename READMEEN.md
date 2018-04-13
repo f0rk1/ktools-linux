@@ -30,7 +30,7 @@
 <pre>
 [settings]
 ;language
-lang = es
+lang = en
 ;create a symbolic link to execute the script and create the
 ;menu entries on the desktop and in the main menu
 menu = 0
@@ -125,7 +125,7 @@ search=true
 #of the application, 1=author 2=name 3=content
 searchby=1
 #Language spanish or english lang=es or en
-lang=es
+lang=en
 </pre>
 </p>
 <h4>Start</h4>
