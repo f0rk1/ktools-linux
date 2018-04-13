@@ -14,14 +14,12 @@
 <p align="justify">Javafx 8 o Openjfx 8</p>
 <br>
 <p>Instalar java 8 and openjfx 8</p>
-<br>
 <p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-gdcl9kDVD48/Ws_U56OtrPI/AAAAAAAAAaw/gMABbMXdsTY2qYoaYeksYUck6Vna6-qWwCLcBGAs/s1600/installes_1.png"></p>
 <h4 align="left">Descarga</h4>
 <p align="justify">Descargar ktools desde el repositorio en github</p>
 <p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://1.bp.blogspot.com/-OOzE-z6Q848/Ws_UF3DSVoI/AAAAAAAAAak/gthJ5AZRZQAYuTqscQJSZePZPkJI3DXTwCLcBGAs/s1600/installes_2.png"></p>
 <h4 align="left">Instalación</h4>
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
-<br>
 <p align="center"><img title="Ktools primera ejecución" src="https://3.bp.blogspot.com/-EIe-IemG6Qc/Ws_VrY1kfyI/AAAAAAAAAa4/xf5hY6VoAxgOwyZPDk3GvrnQ0IFHWkL2gCLcBGAs/s1600/installes_3.png">
 </p>
 <p align="center">
@@ -70,7 +68,6 @@ lang=es
 <br>
 <h4 align="left">Iniciar Ktools</h4>
 <p align="justify">Ver la ayuda en la línea de comandos</p>
-<br>
 <p align="center">
 <img title="Iniciar Ktools" src="https://4.bp.blogspot.com/-nsFpt-00E_I/Ws_WPIHyVoI/AAAAAAAAAbQ/gRKn9OhmmO0sRLPRyU4TviweDuK_T-uBgCLcBGAs/s1600/installes_4.png"></p>
 <br>
@@ -96,14 +93,12 @@ lang=es
 <p align="center"><img title="ktools ver todas las categorías" src="https://2.bp.blogspot.com/-RkK2YhSihL4/WtC69ZuU2VI/AAAAAAAAAfg/NBHYWKzNjfoSI75e86A0PjGUqgs0ygD-ACLcBGAs/s1600/rapido_6.png"></p>
 <p align="justify">Ver todas las herramientas.</p>
 <p align="center"><img title="ktools ver todas las herramientas" src="https://3.bp.blogspot.com/-Q31fzSOX_jk/WtC7YX4ruVI/AAAAAAAAAfo/svzqecW2NQgdwnASs6EeTj5rsnyGGZASQCLcBGAs/s1600/rapido_7.png"></p>
-
-<h4 align="left"></h4>
-<p align="justify"></p><br>
-<p align="center"><img title="" src=""></p>
+<h4 align="left">Buscar</h4>
+<p align="justify">Buscar herramientas por nombre.</p>
+<p align="center"><img title="ktools buscar herramientas por nombre" src="https://1.bp.blogspot.com/-clwc7L98P4I/WtC9SCGUyfI/AAAAAAAAAgE/msmaq3tN158J92yi8-0szg6Xp3nI6vVLwCLcBGAs/s1600/rapido_8.png"></p>
+<p align="justify">Buscar herramientas por autor.</p><br>
+<p align="center"><img title="ktools buscar herramientas por autor" src="https://1.bp.blogspot.com/-lc0BJXjFUgc/WtC9kRRxP9I/AAAAAAAAAgI/kH7Aexvlcxokt07Lhf_RE5mTtI6j7NTzgCLcBGAs/s1600/rapido_9.png"></p>
+<p align="justify">Buscar herramientas por contenido.</p><br>
+<p align="center"><img title="ktools buscar herramientas por contenido" src="https://2.bp.blogspot.com/-ZF3SgKqOw_M/WtC90dBda9I/AAAAAAAAAgQ/Znj0IQKorakkHuQ3buJPSPoXuRie4UitwCLcBGAs/s1600/rapido_10.png"></p>
 <br>
-<h4 align="left"></h4>
-<p align="justify"></p><br>
-<p align="center"><img title="" src=""></p>
-<br>
-
 <p align="justify"></p>
