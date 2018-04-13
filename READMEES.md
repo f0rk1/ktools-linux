@@ -20,7 +20,6 @@
 <p align="justify">Descargar ktools desde el repositorio en github</p>
 <br>
 <p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://1.bp.blogspot.com/-OOzE-z6Q848/Ws_UF3DSVoI/AAAAAAAAAak/gthJ5AZRZQAYuTqscQJSZePZPkJI3DXTwCLcBGAs/s1600/installes_2.png"></p>
-<br>
 <h4 align="left">Instalación</h4>
 <p align="justify">Una vez se ejecuta el script por primera vez, se crea el archivo de configuración y luego creara los accesos directos de la aplicación</p>
 <br>
@@ -81,24 +80,33 @@ lang=es
 <br>
 <p align="justify">Muestra la información de las categorías y herramientas y luego termina la ejecución del script.</p>
 <br>
+
 <h4 align="left">Actualizar Base de datos</h4>
 <p align="justify">Verifica si la base de datos ha sido actualizada, y si algún cambio es detectado descarga y actualiza el archivo de la base de datos.</p><br>
 <p align="center"><img title="ktools actualizar base de datos" src="https://2.bp.blogspot.com/-hO_gFC-nRiU/WtC3IOREF-I/AAAAAAAAAes/_BuMUG4JR-Q88s6nROe3JFsmSYjmh1nqwCLcBGAs/s1600/rapido_1.png"></p>
+
 <h4 align="left">Categorías</h4>
 <p align="justify">Ver las herramientas en una o varias categorías por nombre.</p><br>
 <p align="center"><img title="ktoosl ver categorías" src="https://2.bp.blogspot.com/-M_q1ZbSY5_M/WtC33GIzpTI/AAAAAAAAAe0/FhEgIh8mPycWVvDH4k9Sb1Jw8WfW7aHywCLcBGAs/s1600/rapido_2.png"></p>
 <br>
-<p align="justify">Ver las herramientas en una o varias categorías por id.</p><br>
+<p align="justify">Ver las herramientas en una o varias categorías por id.</p>
 <p align="center"><img title="ktools ver categorías por id" src="https://3.bp.blogspot.com/-82FQJg5KYCM/WtC4OcDH-_I/AAAAAAAAAe4/Bg-3QnKbc5kZj24lQ2P26Uqx_GAiMOpxgCLcBGAs/s1600/rapido_3.png"></p>
+
 <h4 align="left">Herramientas</h4>
 <p align="justify">Ver una herramienta por nombre.</p><br>
 <p align="center"><img title="ktools ver herramienta por nombre" src="https://3.bp.blogspot.com/-EGTNOZBR0j4/WtC48tWvXiI/AAAAAAAAAfE/TmnNyNQUKEgnnEA93sxCJGrrKzYDCEE7QCLcBGAs/s1600/rapido_4.png"></p>
+<p align="justify">Ver una herramienta por id.</p>
+<p align="center"><img title="ktools ver herramienta por id" src="https://4.bp.blogspot.com/-i4NfKlACck0/WtC6fTa1niI/AAAAAAAAAfQ/jXC0YhxOanENvBQkNTjAuJf2fGP0BNFDgCLcBGAs/s1600/rapido_5.png"></p>
+
+<h4 align="left">Listas</h4>
+<p align="justify">Ver todas las categorías.</p><br>
+<p align="center"><img title="ktools ver todas las categorías" src="https://2.bp.blogspot.com/-RkK2YhSihL4/WtC69ZuU2VI/AAAAAAAAAfg/NBHYWKzNjfoSI75e86A0PjGUqgs0ygD-ACLcBGAs/s1600/rapido_6.png"></p>
+<p align="justify">Ver todas las herramientas.</p>
+<p align="center"><img title="ktools ver todas las herramientas" src="https://3.bp.blogspot.com/-Q31fzSOX_jk/WtC7YX4ruVI/AAAAAAAAAfo/svzqecW2NQgdwnASs6EeTj5rsnyGGZASQCLcBGAs/s1600/rapido_7.png"></p>
 <h4 align="left"></h4>
 <p align="justify"></p><br>
 <p align="center"><img title="" src=""></p>
-<h4 align="left"></h4>
-<p align="justify"></p><br>
-<p align="center"><img title="" src=""></p>
+<br>
 <h4 align="left"></h4>
 <p align="justify"></p><br>
 <p align="center"><img title="" src=""></p>
