@@ -16,7 +16,6 @@
 <p>Instalar java 8 and openjfx 8</p>
 <br>
 <p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-gdcl9kDVD48/Ws_U56OtrPI/AAAAAAAAAaw/gMABbMXdsTY2qYoaYeksYUck6Vna6-qWwCLcBGAs/s1600/installes_1.png"></p>
-<br>
 <h4 align="left">Descarga</h4>
 <p align="justify">Descargar ktools desde el repositorio en github</p>
 <br>
@@ -30,7 +29,6 @@
 <br>
 <p align="center">
 <img title="Configurando e instalando Ktools" src="https://3.bp.blogspot.com/-c4I47yZvqzc/Ws_eCbuxwXI/AAAAAAAAAdg/H1ooupowlHMffActbuUJVbRw97Da3CGiQCLcBGAs/s1600/install_es.gif">
-</p>
 <br>
 <h4 align="left">Configuración</h4>
 <p align="justify">Una vez el archivo de configuración es creado, se configura el idioma que es detectado automáticamente junto con las otras opciones que toman sus valores predeterminados.</p>
@@ -54,11 +52,9 @@ pausekey = 1
 <p align="center">
 <img title="Configurando la opción de menu" src="https://1.bp.blogspot.com/-87Ulfgxnsz8/Ws_ecoqnsUI/AAAAAAAAAdk/PEAW6lESTxodb33Z68wFt0Xgc4Mzboi4wCLcBGAs/s1600/config_es.gif">
 </p>
-<br>
 <p align="center">
 <img title="Configurando la opción pausekey" src="https://4.bp.blogspot.com/-Ap4K_NMq7FI/Ws_etFWsD4I/AAAAAAAAAdo/Wv05eOFK2PoNAV7TugXNm0C3Esvg1tRdwCLcBGAs/s1600/config2_es.gif">
 </p>
-<br>
 <p align="justify">Opciones del archivo de configuración ktoolsGui.properties de la interfaz gráfica</p>
 <br>
 <p align="justify">
@@ -81,3 +77,31 @@ lang=es
 <p align="center">
 <img title="Iniciar Ktools" src="https://4.bp.blogspot.com/-nsFpt-00E_I/Ws_WPIHyVoI/AAAAAAAAAbQ/gRKn9OhmmO0sRLPRyU4TviweDuK_T-uBgCLcBGAs/s1600/installes_4.png"></p>
 <br>
+<h3 align="center">Modo rápido</h3>
+<br>
+<p align="justify">Muestra la información de las categorías y herramientas y luego termina la ejecución del script.</p>
+<br>
+<h4 align="left">Actualizar Base de datos</h4>
+<p align="justify">Verifica si la base de datos ha sido actualizada, y si algún cambio es detectado descarga y actualiza el archivo de la base de datos.</p><br>
+<p align="center"><img title="ktools actualizar base de datos" src="https://2.bp.blogspot.com/-hO_gFC-nRiU/WtC3IOREF-I/AAAAAAAAAes/_BuMUG4JR-Q88s6nROe3JFsmSYjmh1nqwCLcBGAs/s1600/rapido_1.png"></p>
+<h4 align="left">Categorías</h4>
+<p align="justify">Ver las herramientas en una o varias categorías por nombre.</p><br>
+<p align="center"><img title="ktoosl ver categorías" src="https://2.bp.blogspot.com/-M_q1ZbSY5_M/WtC33GIzpTI/AAAAAAAAAe0/FhEgIh8mPycWVvDH4k9Sb1Jw8WfW7aHywCLcBGAs/s1600/rapido_2.png"></p>
+<br>
+<p align="justify">Ver las herramientas en una o varias categorías por id.</p><br>
+<p align="center"><img title="ktools ver categorías por id" src="https://3.bp.blogspot.com/-82FQJg5KYCM/WtC4OcDH-_I/AAAAAAAAAe4/Bg-3QnKbc5kZj24lQ2P26Uqx_GAiMOpxgCLcBGAs/s1600/rapido_3.png"></p>
+<h4 align="left">Herramientas</h4>
+<p align="justify">Ver una herramienta por nombre.</p><br>
+<p align="center"><img title="ktools ver herramienta por nombre" src="https://3.bp.blogspot.com/-EGTNOZBR0j4/WtC48tWvXiI/AAAAAAAAAfE/TmnNyNQUKEgnnEA93sxCJGrrKzYDCEE7QCLcBGAs/s1600/rapido_4.png"></p>
+<h4 align="left"></h4>
+<p align="justify"></p><br>
+<p align="center"><img title="" src=""></p>
+<h4 align="left"></h4>
+<p align="justify"></p><br>
+<p align="center"><img title="" src=""></p>
+<h4 align="left"></h4>
+<p align="justify"></p><br>
+<p align="center"><img title="" src=""></p>
+<br>
+
+<p align="justify"></p>
