@@ -99,7 +99,7 @@
 	],
 "updatedb": [
 	"\n\tBase de Datos actualizada correctamente !\n",
-	"\n\tLa base datos se encuentra al día\n",
+	"\n\tLa base de datos se encuentra al día\n",
 	"\n\tError en el hash de la base de datos\n",
 	"\n\tError descargando la base de datos\n"
 ]
