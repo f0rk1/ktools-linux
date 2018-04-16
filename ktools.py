@@ -989,6 +989,8 @@ class ktools:
 		printBy = 0
 		val     = None
 		isFound = False
+		ids     = []
+		index   = 0
 		
 		if self.data == None:
 		
@@ -1030,7 +1032,9 @@ class ktools:
 							if t == d[0][b] :
 				
 								rows.append( ( str( b ) + ". " + d[0][b], ) )
-
+								ids.insert( index, b )
+								index += 1
+							
 					self.printLists( rows )
 			
 		if printBy == 2 :
@@ -1052,19 +1056,13 @@ class ktools:
 							if t == d[0][b] :
 				
 								rows.append( ( str( b ) + ". " + d[0][b], ) )
+								ids.insert( index, b )
+								index += 1
 
 					self.printLists( rows )
 			        		
 		if rows !=  False:
 		
-			ids = []
-			index = 0
-			
-			for a in rows:
-			
-				ids.insert( index, a[0].split( ". " )[0] )
-				index += 1
-				
 			id_ = raw_input( unicode( self.locale["asks"]["atool"] ).encode( "utf-8" ) )
 
 			if id_.isdigit():
