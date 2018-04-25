@@ -119,7 +119,7 @@ pausekey = 1
 <br>
 <h3 align="center">GUI</h3>
 <br>
-<p align="justify">la GUI en su versión 0.2 fue escrita en Javafx, y permite acceder a los contenidos de ayuda mediante una interfaz gráfica, tiene nuevas características como el guardado de la configuraciones seleccionadas por el usuario en la interfaz gráfica en el archivo de configuración.</p>
+<p align="justify">la GUI en su versión 0.2 fue escrita en Javafx, y permite acceder a los contenidos de ayuda mediante una interfaz gráfica, tiene nuevas características como el guardado de las configuraciones seleccionadas por el usuario en la interfaz gráfica en el archivo de configuración.</p>
 <br>
 <h4 align="left">Configuración</h4>
 <p align="justify">Una vez la aplicación de java es ejecutada por primera vez, se crea el archivo de configuración el cual tiene opciones como el idioma, el cual es detectado automáticamente junto con las otras opciones que toman sus valores predeterminados.</p>
