@@ -146,3 +146,5 @@ lang=es
 <p align="center"><img title="ktools GUI" src="https://4.bp.blogspot.com/-Z6p0KUPpJdY/WtDRzhqtApI/AAAAAAAAAjg/DTWmw6qTyoUjurBev_HfdnIz3nWkk8rxwCLcBGAs/s1600/GUI2.png"></p>
 <h4>Blog ktools</h4>
 <p><a title="Ktools linux blog" target="_blank" href="https://ktools-linux.blogspot.com">https://ktools-linux.blogspot.com</a></p>
+<h4>Canal en youtube</h4>
+<p><a title="Ktools linux en youtube" target="_blank" href="https://www.youtube.com/channel/UCcocpSQhbpEkzX4RszT8FGQ">https://www.youtube.com/channel/UCcocpSQhbpEkzX4RszT8FGQ</a></p>
