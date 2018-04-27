@@ -55,7 +55,7 @@ pausekey = 1
 <h4 align="left">Iniciar Ktools</h4>
 <p align="justify">Ver la ayuda en la línea de comandos</p>
 <p align="center">
-<img title="Iniciar Ktools" src="https://4.bp.blogspot.com/-nsFpt-00E_I/Ws_WPIHyVoI/AAAAAAAAAbQ/gRKn9OhmmO0sRLPRyU4TviweDuK_T-uBgCLcBGAs/s1600/installes_4.png"></p>
+<img title="Iniciar Ktools" src="https://4.bp.blogspot.com/-L0pd7aV7NAw/WuN-OtuBW_I/AAAAAAAAApM/jFqhh2QZi24DtGGHiKVKD3FhMCoFizCPgCLcBGAs/s1600/installes_4.png"></p>
 <br>
 <h3 align="center">Modo rápido</h3>
 <br>
