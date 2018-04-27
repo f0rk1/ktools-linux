@@ -68,16 +68,16 @@ pausekey = 1
 <p align="center"><img title="view a tool by id" src="https://1.bp.blogspot.com/-7glIWuB6Kdc/WtEczt5e7gI/AAAAAAAAAkY/piodKhVrzZIOesRxpham5Vq488n5Kt5MACLcBGAs/s1600/quick_5.png" ></p>
 <h4>Lists</h4>
 <p align="justify">View all categories.</p>
-<p align="center"><img title="view all categories" src="https://3.bp.blogspot.com/-0ZxRPaRmd2k/WtEddFQJMSI/AAAAAAAAAkg/4B_i6TjuUh46lfxa-8DLkLofWV-WrOqAACLcBGAs/s1600/quick_6.png" ></p>
+<p align="center"><img title="view all categories" src="https://1.bp.blogspot.com/-Dtl2j46rIL8/WuNYFa-MGaI/AAAAAAAAAoI/JYhucKhSC4MabJFIubDxe20zz1DSrTmWQCLcBGAs/s1600/quick_6.png" ></p>
 <p align="justify">View all tools.</p>
-<p align="center"><img title="view all tools" src="https://1.bp.blogspot.com/-_aQUKUVMoYU/WtEdpXcLOoI/AAAAAAAAAko/oEpHtrSFidcp_V8ZFKgNBI_Bo-ZU7pAQwCLcBGAs/s1600/quick_7.png" ></p>
+<p align="center"><img title="view all tools" src="https://2.bp.blogspot.com/-2pJplDfJvTM/WuNYTIU5s0I/AAAAAAAAAoM/BnHKmX6fIGkSj_u4PD9_OULAJu8LCbk6ACLcBGAs/s1600/quick_7.png" ></p>
 <h4>Search</h4>
 <p align="justify">Search tools by name.</p>
 <p align="center"><img title="search tools by name" src="https://2.bp.blogspot.com/-1CkZuDJ6Uk4/WtEe1VXEZYI/AAAAAAAAAk0/UO5tZQJ0h-sy86eRqaTGu6a757flLdcCgCLcBGAs/s1600/quick_8.png" ></p>
 <p align="justify">Search tools by author.</p>
-<p align="center"><img title="search tools by author" src="https://4.bp.blogspot.com/-xyrzKpGoOiE/WtEfFnHG0UI/AAAAAAAAAk4/CZuxTWQocWsguQBvf-Iz53Z1q6xor2KegCLcBGAs/s1600/quick_9.png" ></p>
+<p align="center"><img title="search tools by author" src="https://2.bp.blogspot.com/-3gy_V5U8sws/WuNYjPWoAsI/AAAAAAAAAoY/zfMYp9iBw0kLZhUjN_upyMgCqG1Rgl0cQCLcBGAs/s1600/quick_9.png" ></p>
 <p align="justify">Search tools by content.</p>
-<p align="center"><img title="search tools by content" src="https://1.bp.blogspot.com/-8BPJ6GvPrv4/WtEfP6OcP9I/AAAAAAAAAlI/OSWuBDqXfj87JD-MWqZPUGCdbsABNXqZQCLcBGAs/s1600/quick_10.png" ></p>
+<p align="center"><img title="search tools by content" src="https://4.bp.blogspot.com/-ix5rGOKuLpc/WuNYrqn8veI/AAAAAAAAAoc/vUV15GZ8WMwyhbNslVNBUWSzuI-Zr6VgwCLcBGAs/s1600/quick_10.png" ></p>
 <br>
 <h3 align="center">Shell mode</h3><br>
 <p align="justify">It allows access to the different options of the tool through an interactive shell.</p>
@@ -134,3 +134,6 @@ lang=en
 <p align="center"><img title="ktool GUI" src="https://3.bp.blogspot.com/-eYLSHImCTPE/WtEpYcR90mI/AAAAAAAAAnY/lam9bVK7tJcDp8sqLvRgqyJdaHrw4NTjACLcBGAs/s1600/GUI2.png" ></p>
 <h4>Ktools blog</h4>
 <p align="justify"><a title="Ktools linux blog" href="https://ktools-linux-en.blogspot.com">https://ktools-linux-en.blogspot.com</a></p>
+<h4>Youtube channel</h4>
+<p align="justify"><a title="Ktools linux on youtube" href="https://www.youtube.com/channel/UCdx8zgVHSHCwsy5tRpYW8JA">https://www.youtube.com/channel/UCdx8zgVHSHCwsy5tRpYW8JA</a></p>
+
