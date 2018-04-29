@@ -5,6 +5,11 @@
 "rootaccess":"Must be root !",
 "exception":"Exception :",
 "nEx":"\n\tYou must enter a number\n",
+"javaEx" : {
+	"jar" : "Jar file [p] not found",
+	"java" : "Java binary [b] not found",
+	"java8" : "Java 8 binary [b] not found"
+	},
 "commandKeyword":{
 	"author": "author",
 	"name": "name",
