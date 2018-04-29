@@ -526,7 +526,7 @@ class ktools:
 	def createSymlink( self ):
 	
 		s     = os.path.abspath( __file__ ).replace( " ", "\\ " )
-		fcnt  = '#!/bin/bash\n\nif [ $# -eq 0 ]; then\n\tpython ' + s + '\nelse\n\tpython ' + s + ' "$@"\nfi\nexit'
+		fcnt  = '#!/bin/bash\n\nif [ $# -eq 0 ]; then\n\tpython2.7 ' + s + '\nelse\n\tpython2.7 ' + s + ' "$@"\nfi\nexit'
 		
 		if not os.path.exists( self.ln ):
 		
