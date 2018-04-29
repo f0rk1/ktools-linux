@@ -5,6 +5,11 @@
 "rootaccess":"Debe ser usuario root !",
 "exception":"Excepción :",
 "nEx":"\n\tDebe ingresar un numero\n",
+"javaEx" : {
+	"jar" : "Archivo Jar [p] no encontrado",
+	"java" : "Binario de java [b] no encontrado",
+	"java8" : "Binario de java 8 [b] no encontrado"
+	},
 "commandKeyword":{
 	"author": "autor",
 	"name": "nombre",
