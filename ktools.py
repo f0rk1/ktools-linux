@@ -347,12 +347,50 @@ class ktools:
 					jarPath = self.path_+"ktools.jar"
 
 					if os.path.exists(jarPath):
+					
+						javaBin = "/usr/bin/java"
 				
-						os.system( "java -jar " + jarPath )
+						if os.path.exists( javaBin ):
+						
+							javaVer = subprocess.check_output( ["java", "--version"] ).decode().split("\n")[0]
+					
+							if "9" in javaVer:
+						
+								arch = ""
+								arch_ = subprocess.check_output( ["uname", "-r"] ).decode()
+							
+								if "686" in arch_:
+							
+									arch = "i386"
+								
+								elif "amd64" in arch_ :
+							
+									arch = "amd64"	
+								
+								javaPath = "/usr/lib/jvm/java-8-openjdk-" + arch + "/jre/bin/java"
+							
+								if os.path.exists(javaPath):
+									
+									os.system( javaPath + " -jar " + jarPath )
+									
+								else:
+							
+									ex = self.locale[ "javaEx" ][ "java8" ].replace( "[b]", javaPath )
+									raise Exception ( ex )	
+																
+							elif "8" in javaVer:
+						
+								os.system( "java -jar " + jarPath )
+								
+						else:
+						
+							ex = self.locale[ "javaEx" ][ "java" ].replace( "[b]", javaBin )
+							raise Exception ( ex )	
 					
 					else:
-					
-						raise Exception ( jarPath + " not found" )
+						
+						ex = self.locale[ "javaEx" ][ "jar" ].replace( "[p]", jarPath )
+						raise Exception ( ex )
 						
 				elif sys.argv[1] == self.locale["args"]["uptdb"][0] or sys.argv[1] == self.locale["args"]["uptdb"][1]:
 				
