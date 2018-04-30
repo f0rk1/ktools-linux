@@ -80,7 +80,9 @@ class ktools:
 		else:
 				
 			self.deleteSymlinkMenu()
-						
+
+		#self.createSymlink()
+				
 		self.initArgs()
 			
 	def downloadDb( self ):
