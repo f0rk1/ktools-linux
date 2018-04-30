@@ -356,16 +356,16 @@ class ktools:
 						
 							javaVer = subprocess.check_output( ["update-alternatives", "--query", "java"] ).decode().split("Best: ")[1].split("\n")[0]
 					
-							if "java-9" in javaVer or "java-10" in javaVer:
+							if "java-9" in javaVer or "java-10" in javaVer or "java-11" in javaVer:
 						
 								arch = ""
-								arch_ = subprocess.check_output( ["uname", "-r"] ).decode()
+								arch_ = subprocess.check_output( ["uname", "-a"] ).decode()
 							
 								if "686" in arch_:
 							
 									arch = "i386"
 								
-								elif "amd64" in arch_ :
+								elif "x86_64" in arch_ :
 							
 									arch = "amd64"	
 								
