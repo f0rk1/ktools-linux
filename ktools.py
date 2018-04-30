@@ -352,9 +352,9 @@ class ktools:
 				
 						if os.path.exists( javaBin ):
 						
-							javaVer = subprocess.check_output( ["java", "--version"] ).decode().split("\n")[0]
+							javaVer = subprocess.check_output( ["update-alternatives", "--query", "java"] ).decode().split("Best: ")[1].split("\n")[0]
 					
-							if "9" in javaVer:
+							if "java-9" in javaVer or "java-10" in javaVer:
 						
 								arch = ""
 								arch_ = subprocess.check_output( ["uname", "-r"] ).decode()
@@ -378,7 +378,7 @@ class ktools:
 									ex = self.locale[ "javaEx" ][ "java8" ].replace( "[b]", javaPath )
 									raise Exception ( ex )	
 																
-							elif "8" in javaVer:
+							elif "java-8" in javaVer:
 						
 								os.system( "java -jar " + jarPath )
 								
