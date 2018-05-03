@@ -8,8 +8,9 @@
 "javaEx" : {
 	"jar" : "Jar file [p] not found",
 	"java" : "Java binary [b] not found",
-	"java8" : "Java 8 binary [b] not found"
-	},
+	"java8" : "Java 8 binary [b] not found",
+        "update" : "update-alternatives error"
+ 	},
 "commandKeyword":{
 	"author": "author",
 	"name": "name",
@@ -106,6 +107,7 @@
 	"\n\tDatabase updated successfull !\n",
 	"\n\tthe database is already up to date\n",
 	"\n\tDatabase hash format error\n",
-	"\n\tError while downloading database\n"
+	"\n\tError while downloading database\n",
+	"\n\tThere isn't internet connectivity\n"
 ]
 }
