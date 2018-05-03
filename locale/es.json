@@ -8,7 +8,8 @@
 "javaEx" : {
 	"jar" : "Archivo Jar [p] no encontrado",
 	"java" : "Binario de java [b] no encontrado",
-	"java8" : "Binario de java 8 [b] no encontrado"
+	"java8" : "Binario de java 8 [b] no encontrado",
+        "update" : "Error update-alternatives"
 	},
 "commandKeyword":{
 	"author": "autor",
@@ -106,6 +107,7 @@
 	"\n\tBase de Datos actualizada correctamente !\n",
 	"\n\tLa base de datos se encuentra al día\n",
 	"\n\tError en el hash de la base de datos\n",
-	"\n\tError descargando la base de datos\n"
+	"\n\tError descargando la base de datos\n",
+	"\n\tNo hay conectividad a internet\n"
 ]
 }
