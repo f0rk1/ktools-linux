@@ -440,7 +440,7 @@ class ktools:
 			
 	def createSymlinkMenu( self ):
 
-		logo      = "/usr/share/icons/gnome/256x256/apps/ktools.png"		
+		logo      = "/usr/share/icons/ktools/ktools.png"		
 		menuname  = "ktools.desktop"
 		menunameg = "ktools GUI.desktop"
 		menudesk  = pwd.getpwnam( os.getlogin() )[5] + "/"
@@ -592,7 +592,13 @@ class ktools:
 		
 	def checkLogo( self ):			
 		
-		lpath = "/usr/share/icons/gnome/256x256/apps/ktools.png"
+		dpath = "/usr/share/icons/ktools/"
+		
+		if not os.path.exists( dpath ):
+		
+			os.mkdir( dpath )
+			
+		lpath = dpath + "ktools.png"
 		kpath = self.path_ + "img/ktools.png"
 		
 		if not os.path.exists( lpath ):
@@ -615,7 +621,7 @@ class ktools:
 
 	def deleteSymlinkMenu( self ):
 		
-		logo      = "/usr/share/icons/gnome/256x256/apps/ktools.png"		
+		logo      = "/usr/share/icons/ktools/ktools.png"		
 		menuname  = "ktools.desktop"
 		menunameg = "ktools GUI.desktop"
 		menudesk  = pwd.getpwnam( os.getlogin() )[5] + "/"
