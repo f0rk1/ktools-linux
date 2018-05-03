@@ -80,25 +80,31 @@ class ktools:
 		else:
 				
 			self.deleteSymlinkMenu()
-
-		#self.createSymlink()
+			self.createSymlink()
 				
 		self.initArgs()
 			
 	def downloadDb( self ):
 	
-		dbnew = urllib2.urlopen( "https://github.com/f0rk1/ktools-linux/blob/master/tools.db?raw=true" )
-		data = dbnew.read()
+		if self.isCon():	
+	
+			dbnew = urllib2.urlopen( "https://github.com/f0rk1/ktools-linux/blob/master/tools.db?raw=true" )
+			data = dbnew.read()
 					
-		if data != None:		
+			if data != None:		
 		
-			db = open( self.dbFile, "w" )
-			db.write( data )	
-			db.close()
+				db = open( self.dbFile, "w" )
+				db.write( data )	
+				db.close()
 			
+			else:
+			
+				raise Exception( self.locale["updatedb"][3] )	
+				
 		else:
-			
-			raise Exception( self.locale["updatedb"][3] )	
+		
+			print ( self.locale["updatedb"][4] )			
+			exit()
 			
 			
 	def loadLang( self ):
@@ -265,7 +271,7 @@ class ktools:
 		Config.set( "settings", "dbhash", self.dbHash )
 		Config.set( "settings", self.locale["conffile"][3]["pausekey"].encode( "utf-8" ) )
 		Config.set( "settings", "pausekey", 1 )			
-		Config.write( open( self.confFile, "w" ) )							
+		Config.write( open( self.confFile, "w" ) )
 
 	def initArgs( self ):
 	
@@ -351,38 +357,63 @@ class ktools:
 					if os.path.exists(jarPath):
 					
 						javaBin = "/usr/bin/java"
-				
+										
 						if os.path.exists( javaBin ):
+
+							javaVer = ""
 						
-							javaVer = subprocess.check_output( ["update-alternatives", "--query", "java"] ).decode().split("Best: ")[1].split("\n")[0]
-					
-							if "java-9" in javaVer or "java-10" in javaVer or "java-11" in javaVer:
+							try:
+							
+								javaVer = subprocess.check_output( ["update-alternatives", "--query", "java"] ).decode().split( "Best: " )[1].split( "\n" )[0]
+								
+							except Exception as ex:
+							
+								try:
+								
+									javaVer = subprocess.check_output( [ "update-alternatives", "--list" ] ).decode().split( "java\t" )[1].split( "\n" )[0]
+									
+								except Exception as ex:
+									
+									exmsg = self.locale[ "javaEx" ][ "update" ]
+									raise Exception( exmsg )
+
+							if javaVer != "":										
+								
+								javaNew = [ "java-9", "java-10", "java-11" ]
+								java8 = [ "java-8", "java-1.8", "jre1.8" ]
+
+								if True in [a in javaVer for a in javaNew]:
 						
-								arch = ""
-								arch_ = subprocess.check_output( ["uname", "-a"] ).decode()
+									arch = ""
+									arch_ = subprocess.check_output( ["uname", "-a"] ).decode()
 							
-								if "686" in arch_:
+									if "686" in arch_:
 							
-									arch = "i386"
+										arch = "i386"
 								
-								elif "x86_64" in arch_ :
+									elif "x86_64" in arch_ :
 							
-									arch = "amd64"	
+										arch = "amd64"	
 								
-								javaPath = "/usr/lib/jvm/java-8-openjdk-" + arch + "/jre/bin/java"
+									javaPath = "/usr/lib/jvm/java-8-openjdk-" + arch + "/jre/bin/java"
 							
-								if os.path.exists(javaPath):
+									if os.path.exists(javaPath):
 									
-									os.system( javaPath + " -jar " + jarPath )
+										os.system( javaPath + " -jar " + jarPath )
 									
-								else:
+									else:
 							
-									ex = self.locale[ "javaEx" ][ "java8" ].replace( "[b]", javaPath )
-									raise Exception ( ex )	
+										ex = self.locale[ "javaEx" ][ "java8" ].replace( "[b]", javaPath )
+										raise Exception ( ex )	
 																
-							elif "java-8" in javaVer:
+								elif True in [a in javaVer for a in java8]:
 						
-								os.system( "java -jar " + jarPath )
+									os.system( "java -jar " + jarPath )
+									
+							else:
+								
+								exmsg = self.locale[ "javaEx" ][ "update" ]
+								raise Exception( exmsg )
 								
 						else:
 						
@@ -647,7 +678,17 @@ class ktools:
 
 		else:
 		
-			return True		
+			return True
+						
+	def isCon( self ):
+		
+		try:
+			urllib2.urlopen( "https://raw.githubusercontent.com/f0rk1/ktools-linux/master/ver/test" )	
+			return True
+		
+		except Exception as ex:
+			
+			return False					
 	
 	def getData( self ):
 		
@@ -769,62 +810,68 @@ class ktools:
 	
 		try:
 		
-			dbver  = urllib2.urlopen( "https://raw.githubusercontent.com/f0rk1/ktools-linux/master/ver/test" )
-			dbgith = dbver.read()
-			dbgith = dbgith[:-1] if dbgith.endswith( "" ) else dbgith
-			dbhash = self.dbHash
-			dbver.close()
+			if self.isCon():
+			
+				dbver  = urllib2.urlopen( "https://raw.githubusercontent.com/f0rk1/ktools-linux/master/ver/test" )
+				dbgith = dbver.read()
+				dbgith = dbgith[:-1] if dbgith.endswith( "" ) else dbgith
+				dbhash = self.dbHash
+				dbver.close()
 
-			if re.match( "[a-zA-Z0-9]", dbgith ) != None:
+				if re.match( "[a-zA-Z0-9]", dbgith ) != None:
 
-				if dbhash != dbgith:
+					if dbhash != dbgith:
 				
-					dbnew = urllib2.urlopen( "https://github.com/f0rk1/ktools-linux/blob/master/tools.db?raw=true" )
-					data = dbnew.read()
+						dbnew = urllib2.urlopen( "https://github.com/f0rk1/ktools-linux/blob/master/tools.db?raw=true" )
+						data = dbnew.read()
 					
-					if data != None:
+						if data != None:
 					
-						index = 0
+							index = 0
 					
-						for a,b,c in os.walk( self.path_ ):
+							for a,b,c in os.walk( self.path_ ):
 
-							if "tools.db.old." in "".join( [z for z in c] ):
+								if "tools.db.old." in "".join( [z for z in c] ):
 
-								for d in c:
+									for d in c:
 								
-									if "tools.db.old." in d:
+										if "tools.db.old." in d:
 											
-										tmp =  d.replace( "tools.db.old.", "" ) 
+											tmp =  d.replace( "tools.db.old.", "" ) 
 
-										if re.match( "[0-9]", tmp ):
+											if re.match( "[0-9]", tmp ):
 
-											index =  int( tmp ) + 1
+												index =  int( tmp ) + 1
 										
-						dbn = open( "temp.db", "w" )
-						dbn.write( data )
-						dbn.close()
-						dbnew.close()
+							dbn = open( "temp.db", "w" )
+							dbn.write( data )
+							dbn.close()
+							dbnew.close()
 						
-						os.rename( self.dbFile, self.dbFile + ".old." + str( index ) )
-						os.rename( "temp.db", self.dbFile )
-						print ( self.locale["updatedb"][0] )
-						self.logger.error( str( datetime.now() ) + ":" + self.locale["updatedb"][0][1:] )
+							os.rename( self.dbFile, self.dbFile + ".old." + str( index ) )
+							os.rename( "temp.db", self.dbFile )
+							print ( self.locale["updatedb"][0] )
+							self.logger.error( str( datetime.now() ) + ":" + self.locale["updatedb"][0][1:] )
 						
-						self.dbHash = hashlib.sha256( open( self.dbFile, 'rb' ).read() ).hexdigest()
+							self.dbHash = hashlib.sha256( open( self.dbFile, 'rb' ).read() ).hexdigest()
 						
-						Config = ConfigParser.ConfigParser()
-						Config.read( self.confFile )		
-						Config.set( "settings", "dbhash", self.dbHash )											
-						Config.write( open( self.confFile, "w" ) )
+							Config = ConfigParser.ConfigParser()
+							Config.read( self.confFile )		
+							Config.set( "settings", "dbhash", self.dbHash )											
+							Config.write( open( self.confFile, "w" ) )
 						
 
+					else:
+				
+						print ( self.locale["updatedb"][1] )
+					
 				else:
 				
-					print ( self.locale["updatedb"][1] )
+					print ( self.locale["updatedb"][2] )
 					
 			else:
-				
-				print ( self.locale["updatedb"][2] )
+			
+				print ( self.locale["updatedb"][4] )
 				
 		except Exception as ex:
 								
