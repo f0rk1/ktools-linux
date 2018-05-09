@@ -4,6 +4,8 @@
   Author: Miguel Baez
 -->
 <meta name="keywords" content="ktools linux, kali linux, tools help, pentest tools">
+<meta name="description" content="Ktools v 02 it is an application that collects all help information of tools included in the linux distribution for audits and penetration testing Kali Linux.">
+<meta name="author" content="Miguel Baez">
 <h1 align="center"> Ktools Linux v 0.2</h1><br>
 <p align="center"><img align="center" alt="Ktools Linux" title="Ktools Linux" src="https://4.bp.blogspot.com/-ucYZWlLyOec/WTSxiFb9ngI/AAAAAAAAACo/3zd0sY11ibcNQmnN509T6pR4KtLhQzmygCK4B/s1600/ktools-logo.png" >
 </p>
