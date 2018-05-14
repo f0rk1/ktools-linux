@@ -356,69 +356,99 @@ class ktools:
 
 					if os.path.exists(jarPath):
 					
+						javaJre = "/usr/lib/jvm/"					
 						javaBin = "/usr/bin/java"
-										
-						if os.path.exists( javaBin ):
-
-							javaVer = ""
+						isJre   = False
 						
-							try:
-							
-								javaVer = subprocess.check_output( ["update-alternatives", "--query", "java"] ).decode().split( "Best: " )[1].split( "\n" )[0]
+						if os.path.exists( javaJre ):
+
 								
-							except Exception as ex:
-							
+							for a,b,c in os.walk( javaJre ):
+
+								if True in ["jre1.8" in d for d in b]:
+									
+									for e in b:
+											
+										if "jre1.8" in e:
+												
+											javaJre += e + "/bin/java"
+												
+									isJre = True
+										
+							if isJre:
+								
+								if os.path.exists( javaJre ):
+									
+									os.system( javaJre + " -jar " + jarPath )
+									
+								else:
+								
+									isJre = False						
+						
+						if not isJre:	
+									
+										
+							if os.path.exists( javaBin ):
+
+								javaVer = ""
+						
 								try:
+							
+									javaVer = subprocess.check_output( ["update-alternatives", "--query", "java"] ).decode().split( "Best: " )[1].split( "\n" )[0]
 								
-									javaVer = subprocess.check_output( [ "update-alternatives", "--list" ] ).decode().split( "java\t" )[1].split( "\n" )[0]
-									
 								except Exception as ex:
+							
+									try:
+								
+										javaVer = subprocess.check_output( [ "update-alternatives", "--list" ] ).decode().split( "java\t" )[1].split( "\n" )[0]
 									
+									except Exception as ex:
+									
+										exmsg = self.locale[ "javaEx" ][ "update" ]
+										raise Exception( exmsg )
+
+								if javaVer != "":										
+								
+									javaNew = [ "java-9", "java-10", "java-11" ]
+									java8 = [ "java-8", "java-1.8", "jre1.8" ]
+
+									if True in [a in javaVer for a in javaNew]:
+						
+										arch = ""
+										arch_ = subprocess.check_output( ["uname", "-a"] ).decode()
+							
+										if "686" in arch_:
+							
+											arch = "i386"
+								
+										elif "x86_64" in arch_ :
+							
+											arch = "amd64"	
+								
+										javaPath = "/usr/lib/jvm/java-8-openjdk-" + arch + "/jre/bin/java"
+							
+										if os.path.exists(javaPath):
+									
+											os.system( javaPath + " -jar " + jarPath )
+									
+										else:
+							
+											ex = self.locale[ "javaEx" ][ "java8" ].replace( "[b]", javaPath )
+											raise Exception ( ex )	
+																
+									elif True in [a in javaVer for a in java8]:
+						
+										os.system( "java -jar " + jarPath )
+									
+								else:
+								
 									exmsg = self.locale[ "javaEx" ][ "update" ]
 									raise Exception( exmsg )
-
-							if javaVer != "":										
 								
-								javaNew = [ "java-9", "java-10", "java-11" ]
-								java8 = [ "java-8", "java-1.8", "jre1.8" ]
-
-								if True in [a in javaVer for a in javaNew]:
-						
-									arch = ""
-									arch_ = subprocess.check_output( ["uname", "-a"] ).decode()
-							
-									if "686" in arch_:
-							
-										arch = "i386"
-								
-									elif "x86_64" in arch_ :
-							
-										arch = "amd64"	
-								
-									javaPath = "/usr/lib/jvm/java-8-openjdk-" + arch + "/jre/bin/java"
-							
-									if os.path.exists(javaPath):
-									
-										os.system( javaPath + " -jar " + jarPath )
-									
-									else:
-							
-										ex = self.locale[ "javaEx" ][ "java8" ].replace( "[b]", javaPath )
-										raise Exception ( ex )	
-																
-								elif True in [a in javaVer for a in java8]:
-						
-									os.system( "java -jar " + jarPath )
-									
 							else:
-								
-								exmsg = self.locale[ "javaEx" ][ "update" ]
-								raise Exception( exmsg )
-								
-						else:
-						
-							ex = self.locale[ "javaEx" ][ "java" ].replace( "[b]", javaBin )
-							raise Exception ( ex )	
+
+								ex = self.locale[ "javaEx" ][ "java" ].replace( "[b]", javaBin )
+								raise Exception ( ex )								
 					
 					else:
 						
@@ -1318,12 +1348,12 @@ class ktools:
 						        
 					else:
 						
-	      			               	if self.content != None:
-	      			                
-		      			                p = p.replace( self.content, "[b]" + self.content + "[/b]" ).replace( self.content.upper(), "[b]" + self.content.upper() + "[/b]" )
-		      			                
-		      			       	temp = temp + p + "\n"
-		      			       	
+						if self.content != None:
+
+							p = p.replace( self.content, "[b]" + self.content + "[/b]" ).replace( self.content.upper(), "[b]" + self.content.upper() + "[/b]" )
+							
+						temp = temp + p + "\n"
+			
 			temp = temp.replace( "root@kali:~#", self.paintc +"31mkalit@root" + self.paintc + "0m:" + self.paintc + "34m~" + self.paintc +"0m#" + self.pEnd ) 
 			
 			if row[0][8] != "":
