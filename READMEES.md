@@ -13,7 +13,7 @@
 <p align="justify">Java 8 o OpenJdk 8</p>
 <p align="justify">Javafx 8 o Openjfx 8</p>
 <br>
-<p>Instalar java 8 and openjfx 8</p>
+<p>Instalar java 8 y openjfx 8</p>
 <p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-VWbpduwF8tc/Wv35U1yriAI/AAAAAAAAAp8/4XujYCltb5wIah5hUnz-MsF_AOB4lOF1gCLcBGAs/s1600/instalar.png"></p>
 <p align="justify">Si la distribución de Linux no cuenta con los repositorios para openjdk-8-jre o openjfx, puede descargar la versión del jre de oracle en el siguiente link <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html" title="Java Jre 8">Java Jre 8</a>.</p>
 <p align="center"><img title="Instalar Java 8 Oracle" src="https://1.bp.blogspot.com/-nBBK1WwZTGo/Wv4SRj4mVzI/AAAAAAAAAr4/UfuB9YxkkkEqN2KsWxPgsRTlxh0XLP-tQCLcBGAs/s1600/installjrees.png"></p>
