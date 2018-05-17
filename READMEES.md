@@ -143,7 +143,7 @@ lang=es
 <h4 align="left">Ejecución</h4>
 <p align="justify">Inciar ktools GUI.</p>
 <p align="center"><img title="iniciar ktools GUI" src="https://3.bp.blogspot.com/-fJjUJPn0ngc/WtDEVMtYo-I/AAAAAAAAAiU/E5LaOdfQRwIRHEuyWqKKBZxoMpSJ1x-CwCLcBGAs/s1600/GUI.png"></p>
-<p align="center"><img title="ktools GUI" src="https://4.bp.blogspot.com/-Z6p0KUPpJdY/WtDRzhqtApI/AAAAAAAAAjg/DTWmw6qTyoUjurBev_HfdnIz3nWkk8rxwCLcBGAs/s1600/GUI2.png"></p>
+<p align="center"><img title="ktools GUI" src="https://4.bp.blogspot.com/-L5bTtsmW9Q4/Wv4CjX0rU0I/AAAAAAAAArI/Dbjkh3X5rrkbJ0Oq3OBJl94Tz6ccKwKbwCLcBGAs/s1600/guies.png"></p>
 <h4>Blog ktools</h4>
 <p><a title="Ktools linux blog" target="_blank" href="https://ktools-linux.blogspot.com">https://ktools-linux.blogspot.com</a></p>
 <h4>Canal en youtube</h4>
