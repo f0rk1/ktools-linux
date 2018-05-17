@@ -14,7 +14,7 @@
 <br>
 <p>Install java 8 and openjfx 8</p>
 <p align="center"><img title="Install Java 8" src="https://2.bp.blogspot.com/-etdCTHX4998/Wv34i-7u1kI/AAAAAAAAAp0/40oOlgvWyhojk7aE8pK7kisg0ToFXtj1wCLcBGAs/s1600/install.png"></p>
-<p align="justify">If the Linux distribution does not have the repositories for openjdk-8-jre or openjfx, you can download the jre version of oracle in the following link <a href="" title="Java Jre 8">Java Jre 8</a>.</p>
+<p align="justify">If the Linux distribution does not have the repositories for openjdk-8-jre or openjfx, you can download the jre version of oracle in the following link <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html" title="Java Jre 8">Java Jre 8</a>.</p>
 <p align="center"><img title="Install Java 8 Oracle" src="https://3.bp.blogspot.com/-CeeKgqsCKBU/Wv4TVtNRL5I/AAAAAAAAAsA/Y3hGMtE6NEwluUJ1LKVVRANlKxlt5MTHwCLcBGAs/s1600/installjreen.png"></p>
 <p align="justify">If you have jdk or jre installed in a version higher than 8, you must skip the steps that include the update-alternatives command, and extract the compressed file in the folder /usr/lib/jvm/ so the script will start ktools GUI with java version 8.</p>
 <h4 align="left">Download</h4>
