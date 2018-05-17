@@ -14,7 +14,7 @@
 <p align="justify">Javafx 8 o Openjfx 8</p>
 <br>
 <p>Instalar java 8 and openjfx 8</p>
-<p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-gdcl9kDVD48/Ws_U56OtrPI/AAAAAAAAAaw/gMABbMXdsTY2qYoaYeksYUck6Vna6-qWwCLcBGAs/s1600/installes_1.png"></p>
+<p align="center"><img title="Instalar Java 8" src="https://2.bp.blogspot.com/-VWbpduwF8tc/Wv35U1yriAI/AAAAAAAAAp8/4XujYCltb5wIah5hUnz-MsF_AOB4lOF1gCLcBGAs/s1600/instalar.png"></p>
 <h4 align="left">Descarga</h4>
 <p align="justify">Descargar ktools desde el repositorio en github</p>
 <p align="center"><img title="Descargar ktools desde el repositorio en github" src="https://1.bp.blogspot.com/-OOzE-z6Q848/Ws_UF3DSVoI/AAAAAAAAAak/gthJ5AZRZQAYuTqscQJSZePZPkJI3DXTwCLcBGAs/s1600/installes_2.png"></p>
